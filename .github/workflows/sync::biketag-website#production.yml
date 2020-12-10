@@ -1,6 +1,6 @@
 # .github/workflows/mergeUpstreamBranches.yml
 
-name: Sync::production
+name: sync::biketag-website#production
 on:
   schedule:
      # actually, ~5 minutes is the highest
