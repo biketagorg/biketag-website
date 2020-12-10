@@ -5,7 +5,6 @@
     "description": "A website for biketag.org",
     "author": "Ken Eucker <keneucker@gmail.com>",
     "contributors": [],
-    "bin": {},
     "scripts": {
         "clean": "yarn prettier . --write",
         "dev": "node app.js debug=true",
