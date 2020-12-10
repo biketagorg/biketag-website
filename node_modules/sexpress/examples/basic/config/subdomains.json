@@ -1,0 +1,18 @@
+{
+    "index": {
+        "imgur": {
+            "imgurAlbumHash": ""
+        },
+        "reddit": {
+            "redditSubreddit": ""
+        },
+        "images": {
+            "header": "",
+            "logo": ""
+        }
+    },
+
+    "www": {
+        "yo": "word"
+    }
+}

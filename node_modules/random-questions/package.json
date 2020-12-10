@@ -1,0 +1,23 @@
+{
+  "name": "random-questions",
+  "version": "1.0.1",
+  "description": "Mad libs style random question generator.  Can be used for bot testing or qe projects in general or anything really..",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickguimond/randomQuestions.git"
+  },
+  "keywords": [
+    "questions",
+    "random"
+  ],
+  "author": "Nick Guimond",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickguimond/randomQuestions/issues"
+  },
+  "homepage": "https://github.com/nickguimond/randomQuestions#readme"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "biketag-app",
+    "version": "0.1.4",
+    "description": "An application for biketag.org",
+    "author": "Ken Eucker <keneucker@gmail.com>",
+    "contributors": [],
+    "bin": {},
+    "scripts": {
+        "dev": "node app.js debug=true",
+        "start": "node app.js",
+        "clean": "./node_modules/.bin/prettier . --write"
+    },
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/KenEucker/biketag-app.git"
+    },
+    "bugs": {
+        "url": "https://github.com/KenEucker/biketag-app/issues"
+    },
+    "keywords": [],
+    "dependencies": {
+        "imgur": "https://github.com/KenEucker/node-imgur.git#keneucker/production",
+        "node-cache": "^5.1.2",
+        "path": "^0.12.7",
+        "request": "^2.88.2",
+        "sexpress": "^0.7.14",
+        "snoowrap": "^1.21.0"
+    },
+    "devDependencies": {
+        "prettier": "^2.2.1"
+    },
+    "license": "Unlicense"
+}
